@@ -1,0 +1,75 @@
+# Blender MTL File: 'Big Dipper Arc Floor Lamp.blend'
+# Material Count: 6
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.700000 Textures\\Rack\\Rack_normal.png
+map_Kd Textures\\Rack\\Rack_color.png
+map_Ns Textures\\Rack\\Rack_roughness.png
+refl Textures\\Rack\\Rack_metallic.png
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Arc\\Arc_normal.png
+map_Kd Textures\\Arc\\Arc_color.png
+map_Ns Textures\\Arc\\Arc_roughness.png
+refl Textures\\Arc\\Arc_metallic.png
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Regulator\\Regulator_normal.png
+map_Kd Textures\\Regulator\\Regulator_color.png
+map_Ns Textures\\Regulator\\Regulator_roughness.png
+refl Textures\\Regulator\\Regulator_metallic.png
+
+newmtl Material.004
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.005
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Rubber
+Ns 31.258265
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s -3.000000 -3.000000 -3.000000 I:\\Blender Textures\\Металл\\Чёрный\\Metal029_4K-JPG\\Metal029_4K_Color.jpg

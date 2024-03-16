@@ -1,0 +1,14 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.01.2021 01:38:40
+
+newmtl map_ArmChairRoyal3
+	Ns 45.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4627 0.2510 0.1647
+	Kd 0.4627 0.2510 0.1647
+	Ks 0.3780 0.3780 0.3780
+	Ke 0.0000 0.0000 0.0000

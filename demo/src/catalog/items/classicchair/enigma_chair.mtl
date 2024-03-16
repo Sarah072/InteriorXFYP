@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.06.2017 10:12:11
+
+newmtl enigma_chair_pieds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka S:\01_3dvm_Objets\04_3dvm_pour boxs_Artiste_Nicolas\Enigma_Chair\Enigma_Chair_Wood_Diffuse.jpg
+	map_Kd S:\01_3dvm_Objets\04_3dvm_pour boxs_Artiste_Nicolas\Enigma_Chair\Enigma_Chair_Wood_Diffuse.jpg
+	map_bump S:\01_3dvm_Objets\04_3dvm_pour boxs_Artiste_Nicolas\Enigma_Chair\Enigma_Chair_Wood_Bump.jpg
+	bump S:\01_3dvm_Objets\04_3dvm_pour boxs_Artiste_Nicolas\Enigma_Chair\Enigma_Chair_Wood_Bump.jpg
+
+newmtl enigma_chair_revetement
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka S:\01_3dvm_Objets\04_3dvm_pour boxs_Artiste_Nicolas\Enigma_Chair\Enigma_Chair_Revetement_Diffuse_Color.jpg
+	map_Kd S:\01_3dvm_Objets\04_3dvm_pour boxs_Artiste_Nicolas\Enigma_Chair\Enigma_Chair_Revetement_Diffuse_Color.jpg
+
+newmtl enigma_chair_clous
+	Ns 39.999996
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.121569 0.070588 0.000000
+	Kd 0.121569 0.070588 0.000000
+	Ks 0.360000 0.360000 0.360000
+	Ke 0.000000 0.000000 0.000000
